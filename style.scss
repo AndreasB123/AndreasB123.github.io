@@ -77,7 +77,7 @@ iframe {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  border-radius: 15px;
+  border-radius: 42px;
   border-color: #000000;
   padding: 0 10px;
   width: 100%;
@@ -303,7 +303,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $lightGreen;
 }
 
 .posts > .post:last-child {
