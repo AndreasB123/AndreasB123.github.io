@@ -7,7 +7,7 @@ ANDREAS HERE! This blog is about I.T.
 
 ### More Information
 
-We program Fuze Boxes which use B.A.S.I.C. I hope you like this blog as much as I do!
+We program, create and expand with technology.
 
 ### Contact me 
 
