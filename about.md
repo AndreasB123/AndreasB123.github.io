@@ -11,5 +11,5 @@ We program, create and expand with technology.
 
 ### Contact me 
 
-[andreas.bazigos@hcalloners.org](mailto:jack.morgan2@challoners.org) 
+[andreas.bazigos@hcalloners.org] 
 
